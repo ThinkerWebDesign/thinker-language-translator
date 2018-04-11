@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="flag-icon-css-hn" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="640px" height="480px" viewBox="0 0 640 480" enable-background="new 0 0 640 480" xml:space="preserve">
+<g id="Layer_1_1_">
+	<rect y="160" width="640" height="160"/>
+	<rect x="235.789" y="280.702" fill="#FFD400" width="150.176" height="9.824"/>
+	<path fill="#FFD400" d="M383.158,273.685l29.474-28.07l-32.281,14.035l23.86-33.685l-32.281,11.228l14.035-33.684l-30.877,16.842
+		l8.421-33.684l-28.07,23.86l1.403-33.684l-15.438,29.474l-9.824-33.685l-11.229,33.685l-15.438-29.474l1.403,33.684l-26.666-23.86
+		l7.018,33.684l-30.878-16.842l15.438,33.684l-32.28-11.228l23.859,33.685l-33.684-12.632l29.474,26.667H383.158z"/>
+	<rect fill="#DA251D" width="640" height="160"/>
+	<rect y="320" fill="#009A3F" width="640" height="160"/>
+</g>
+<rect x="-101.053" display="none" fill="#009A3F" width="842.105" height="480"/>
+</svg>

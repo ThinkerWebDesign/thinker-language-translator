@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="flag-icon-css-ad" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="640px" height="480px" viewBox="0 0 640 480" enable-background="new 0 0 640 480" xml:space="preserve">
+<g>
+	<path fill="#00247D" d="M0,0h640v480H0V0z"/>
+	<path fill="none" stroke="#FFFFFF" stroke-width="56.25" stroke-miterlimit="10" d="M0,240L420,0 M0,0l420,240"/>
+	<path fill="none" stroke="#CF142B" stroke-width="75" stroke-miterlimit="10" d="M280,90h360 M0,450h640"/>
+	<path fill="none" stroke="#FFFFFF" stroke-width="75" stroke-miterlimit="10" d="M280,30h360 M280,210h360 M0,390h640"/>
+	<g>
+		<defs>
+			<polygon id="SVGID_1_" points="420,120 0,120 0,0 420,240 			"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  overflow="visible"/>
+		</clipPath>
+		<path clip-path="url(#SVGID_2_)" fill="none" stroke="#CF142B" stroke-width="37.5" stroke-miterlimit="10" d="M0,0l420,240"/>
+	</g>
+	<g>
+		<defs>
+			<polygon id="SVGID_3_" points="210,240 210,0 420,0 0,240 			"/>
+		</defs>
+		<clipPath id="SVGID_4_">
+			<use xlink:href="#SVGID_3_"  overflow="visible"/>
+		</clipPath>
+		<path clip-path="url(#SVGID_4_)" fill="none" stroke="#CF142B" stroke-width="37.5" stroke-miterlimit="10" d="M420,0L0,240"/>
+	</g>
+	<path fill="none" stroke="#FFFFFF" stroke-width="75" stroke-miterlimit="10" d="M210,240V0 M0,120h420"/>
+	<path fill="none" stroke="#CF142B" stroke-width="56.25" stroke-miterlimit="10" d="M0,120h420 M210,240V0"/>
+	<path fill="none" stroke="#CF142B" stroke-width="75" stroke-miterlimit="10" d="M0,270h640"/>
+</g>
+</svg>
