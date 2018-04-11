@@ -46,11 +46,15 @@ Add a highly customizable language translator to your website.
 
 **Customize Step 2 - Hover/Click Icon**
 
+*Icon Method*
+
 * Use Icon Method: Optionally use a customized icon to display translator options on mouse click or hover.
 * Icon Size: Choose the size of the icon in pixels. (Default: 30)
 * Icon Type: Choose to use the Font Awesome Translator icon, A custom image, or none. (Default: Font Awesome)
 * Icon Image URL: Choose a custom image to use as an icon or background behind the Font Awesome Icon. (Example: http://ex.com/ex.png)
 * Icon BG Color: Choose a background color behind the icon. (Default: #fff)
+
+*Icon Container*
 
 * Icon Container: Optionally display the icon inside a customized container.
 * Height: Choose the height of the icon container in pixels. (Default: 30)
@@ -62,8 +66,12 @@ Add a highly customizable language translator to your website.
 
 **Customize Step 3 - Locations**
 
+*Shortcode*
+
 * Shortcode Padding: Choose a padding for the shortcode container using CSS Rules. (Default: 5px)
 * Display the translator in desired content using this shortcode: [thinker_translator]
+
+*Floating*
 
 * Floating Translator: Optionally display a customized Floating translator.
 * Padding: Choose a padding for the Floating translator using CSS Rules. (Default: 0)
@@ -72,6 +80,8 @@ Add a highly customizable language translator to your website.
 * Left Alignment: Choose a left alignment for the Floating translator using CSS Rules. (Default: 50px)
 * Right Alignment: Choose a right alignment for the Floating translator using CSS Rules. (Default: auto)
 
+*Footer*
+
 * Below Footer Translator: Optionally display a customized translator below the footer.
 * Footer Padding: Choose a padding for the Footer translator using CSS Rules. (Default: 5px)
 * Footer Align: Align the Footer translator: Center, Left, Right, Inherit. (Default: Center)
@@ -79,6 +89,7 @@ Add a highly customizable language translator to your website.
 * Footer BG Style: Choose a background CSS style for the Footer translator. This is great to match the website. (Example: url(/ex.png) center top / cover) (Important: Do NOT use quotes for URL)
 
 **General Notes**
+
 * The translator Preview on the settings page excludes all Locations settings.
 * The Remove Changes button will remove any unsaved changes and reload the page.
 * The Clear All Fields button will reset all the settings to default values.
@@ -89,13 +100,14 @@ Add a highly customizable language translator to your website.
 * HTML Links Method is not recommended but does not use JavaScript. If HTML Links Method and Cache Output are both enabled, all translation links will point to your home page.
 
 **CSS Help Notes**
-* [Border Radius] (https://www.w3schools.com/cssref/css3_pr_border-radius.asp)
-* [Padding] (https://www.w3schools.com/cssref/pr_padding.asp)
-* [Background] (https://www.w3schools.com/cssref/css3_pr_background.asp) (Important: Do NOT use quotes for URL)
-* [Top] (https://www.w3schools.com/cssref/pr_pos_top.asp)
-* [Bottom] (https://www.w3schools.com/cssref/pr_pos_bottom.asp)
-* [Left] (https://www.w3schools.com/cssref/pr_pos_left.asp)
-* [Right] (https://www.w3schools.com/cssref/pr_pos_right.asp)
+
+* [Border Radius](https://www.w3schools.com/cssref/css3_pr_border-radius.asp)
+* [Padding](https://www.w3schools.com/cssref/pr_padding.asp)
+* [Background](https://www.w3schools.com/cssref/css3_pr_background.asp) *(Important: Do NOT use quotes for URL)*
+* [Top](https://www.w3schools.com/cssref/pr_pos_top.asp)
+* [Bottom](https://www.w3schools.com/cssref/pr_pos_bottom.asp)
+* [Left](https://www.w3schools.com/cssref/pr_pos_left.asp)
+* [Right](https://www.w3schools.com/cssref/pr_pos_right.asp)
 
 
 = Demo: =
@@ -131,9 +143,11 @@ Google does not have access to local installations on your computer.
 == Changelog ==
 
 = 1.0.0 =
+
 * Initial release.
 
 == Upgrade Notice ==
 
 = 1.0.0 =
+
 This is the initial release of the plugin.
